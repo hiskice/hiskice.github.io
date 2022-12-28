@@ -21,4 +21,5 @@ Depuis, j'ai développé un intérêt pour tout ce qui concerne le DevOps, notam
 
 Par ces années d'éxpériences, j'ai pu décrocher la certification [DevOps Foundation® Certification](https://www.devopsinstitute.com/certifications/devops-foundation/) délivré par DevOps Institute.
 
-L'informatique n'étant pas seulement mon unique passion, je pratique beaucoup de sport durant mon temps libre tel que la boxe anglaise, le cyclisme, la musculation. Mon objectif en partageant mes passions sur ce site est de vous faire profiter de ce que j'apprends et de ce que j'accomplis.
+L'informatique n'étant pas seulement mon unique passion, je pratique beaucoup de sport durant mon temps libre tel que la boxe anglaise, le cyclisme, la musculation. 
+Mon objectif en partageant mes passions sur ce site est de vous faire profiter de ce que j'apprends et de ce que j'accomplis.
