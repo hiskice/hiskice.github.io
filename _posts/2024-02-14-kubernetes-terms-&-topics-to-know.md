@@ -1,8 +1,8 @@
 ---
 tittle: "Kubernetes: Terms & Topics to know"
 date: 2024-02-01 14:00:00 +0100 
-categories: []
-tags: []
+categories: [Learning]
+tags: [Kubernetes]
 ---
 
 I've finally taken the helm in hand.    
