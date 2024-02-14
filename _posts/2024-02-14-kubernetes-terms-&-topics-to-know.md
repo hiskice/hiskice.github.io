@@ -1,6 +1,6 @@
 ---
 tittle: "Kubernetes: Terms & Topics to know"
-date: 2024-02-01 14:00:00 +0100 
+date: 2024-02-14 23:00:00 +0100 
 categories: [Learning]
 tags: [Kubernetes]
 ---
